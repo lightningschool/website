@@ -1,7 +1,5 @@
 ## LightningSchool project website
 
-This project has ben written with Angular and Tailwind CSS
-
 ## Technology used
 
 - Angular
