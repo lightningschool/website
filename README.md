@@ -1,4 +1,4 @@
-## LightningSchool project website
+# LightningSchool project website
 
 ## Technology used
 
