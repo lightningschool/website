@@ -1,27 +1,51 @@
-# Website
+## LightningSchool project website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+This project has ben written with Angular and Tailwind CSS
 
-## Development server
+## Technology used
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Angular
+- Tailwind CSS
 
-## Code scaffolding
+## Information about pictures
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The images are respectively from Mastodon's press kits, Reddit and GitHub for the social images. The rest are from Google's icon material library.
 
-## Build
+## Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+You must have the following installed on your machine
+- Node.js and NPM
+- The Angular CLI
+- Git (included by default on Linux)
 
-## Running unit tests
+The links to download these tools are below:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Node.js et NPM:
 
-## Running end-to-end tests
+https://nodejs.org/en/download/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+https://nodejs.org/en/download/package-manager/ (with package 
+manager)
 
-## Further help
+Angular CLI
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://angular.io/guide/setup-local (on Linux you must have sudo privileges to install the CLI)
+
+Git:
+
+https://git-scm.com/
+
+## Using
+
+- First, clone this repository with the command ```git clone https://github.com/lightningschool/website```
+
+- Open the project in a terminal and type ```npm install```
+- Open the developpement server with ```ng serve --open```, this will be opened at http://localhost4200
+
+## Bug tracker
+
+To report a bug, please use the GitHub issues.
+
+## Major security breach report
+
+Contact us at LightningSchool@protonmail.ch or use Session messenger (on request only)
