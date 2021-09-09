@@ -1,6 +1,4 @@
-## LightningSchool project website
-
-This project has ben written with Angular and Tailwind CSS
+# LightningSchool project website
 
 ## Technology used
 
@@ -37,7 +35,7 @@ https://git-scm.com/
 
 ## Using
 
-- First, clone this repository with the command ```git clone https://github.com/lightningschool/website```
+- First, clone this repository with the command ```git clone https://github.com/lightningschool/website.git```
 
 - Open the project in a terminal and type ```npm install```
 - Open the developpement server with ```ng serve --open```, this will be opened at http://localhost4200
