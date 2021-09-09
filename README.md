@@ -38,7 +38,7 @@ https://git-scm.com/
 - First, clone this repository with the command ```git clone https://github.com/lightningschool/website.git```
 
 - Open the project in a terminal and type ```npm install```
-- Open the developpement server with ```ng serve --open```, this will be opened at http://localhost4200
+- Open the developpement server with ```ng serve --open```, this will be opened at localhost4200
 
 ## Bug tracker
 
