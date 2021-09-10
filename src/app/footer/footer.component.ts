@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FooterComponent implements OnInit {
 
-license: string='Source code regised under the MIT License and documentation under the CC0 1.0 Universal';
+license: string='Source code regised under the MIT License and documentation under GNU FDL';
 
   constructor() { }
 
